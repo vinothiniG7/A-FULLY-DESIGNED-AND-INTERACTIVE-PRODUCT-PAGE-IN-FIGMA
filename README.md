@@ -72,6 +72,9 @@ This project aims to showcase a best-practice approach to designing an effective
 
 #OUTPUT 
 
+![Image](https://github.com/user-attachments/assets/2e951745-e6cf-49a5-af83-5253d9aad27f)
+![Image](https://github.com/user-attachments/assets/d5af7d0d-c936-43b6-a4cc-68b9c7b3bf2f)
+
 
 
 
